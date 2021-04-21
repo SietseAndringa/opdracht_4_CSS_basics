@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(174, 163, 212);
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 15px;
+}
+header, footer, nav {
+    margin: 15px;
+}
+main {
+    background-color: gray;
+    font-style: italic;
+    color: white;
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 5px;  
+    margin: 15px;
+}
+.margin-25 {
+    margin: 25px;
+}
+.margin-15 {
+    margin: 15px;
+}
+.font-size-40 {
+    font-size: 40px;
+}
